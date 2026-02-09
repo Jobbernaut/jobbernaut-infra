@@ -1,6 +1,3 @@
-# jobbernaut-infra
-Infrastructure as Code (IaC) for the Jobbernaut ecosystem. Manages AWS Serverless resources (Lambda, DynamoDB, S3, Step Functions) using Terraform and GitHub Actions OIDC.
-
 # Jobbernaut Infrastructure (Infra)
 
 This repository contains the **Terraform** configuration for the entire Jobbernaut Ecosystem. It manages the lifecycle of all AWS resources, networking, and security policies.
